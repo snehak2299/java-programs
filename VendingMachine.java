@@ -39,4 +39,8 @@ public class VendingMachine {
 
 	}
 
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> logicalprogram
